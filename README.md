@@ -83,7 +83,8 @@ The project demonstrates a systematic progression from traditional CNN-based arc
 
 # System Architecture
 
-![Architecture](images/architecture.png)
+<img width="872" height="261" alt="image" src="https://github.com/user-attachments/assets/1c10e855-6186-4da9-8ec1-7c827fbc0e05" />
+
 
 The final system consists of:
 
