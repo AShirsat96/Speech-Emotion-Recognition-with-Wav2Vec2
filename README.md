@@ -136,7 +136,8 @@ Key improvements included:
 - Better generalization
 - Reduced confusion between similar emotions
 
-![Performance Comparison](images/performance_progression.png)
+<img width="822" height="316" alt="image" src="https://github.com/user-attachments/assets/81130e4f-6952-4f91-bd9c-d687a7c0da68" />
+
 
 ---
 
@@ -144,7 +145,8 @@ Key improvements included:
 
 The confusion matrix demonstrates improved separation between emotionally similar classes, particularly reducing confusion between **Sad** and **Neutral** speech.
 
-![Confusion Matrix](images/confusion_matrix.png)
+<img width="484" height="412" alt="image" src="https://github.com/user-attachments/assets/f9127249-331a-4631-b572-5d31ad625d71" />
+
 
 ---
 
