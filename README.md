@@ -105,6 +105,9 @@ Several feature extraction approaches were explored:
 - Wavelet Features
 - Raw Audio Waveforms
 
+<img width="738" height="394" alt="image" src="https://github.com/user-attachments/assets/b0e68fcf-4444-4476-a6be-d5390cc04a62" />
+
+
 The final model leveraged raw waveforms with a pretrained Wav2Vec2 backbone to learn task-specific speech representations.
 
 ---
